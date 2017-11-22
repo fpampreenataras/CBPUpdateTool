@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Config>
+  <ArasInfo url="http://localhost/Ford/Server/InnovatorServer.aspx" db="Ford" username="SALTAuthor" password="innovator"></ArasInfo>
+  
+</Config> 
